@@ -12,7 +12,7 @@ How to use strings
 What are indexing and slicing in Python
 What is the official Python coding style and how to check your code with pycodestyle
 
-![Logo](https://www.google.com/imgres?q=logo%20python&imgurl=https%3A%2F%2Ftoppng.com%2Fuploads%2Fpreview%2Fpython-language-icon-python-programming-language-icon-11553482772flfuzsqwz4.png&imgrefurl=https%3A%2F%2Ftoppng.com%2Ffree-image%2Fpython-language-icon-python-programming-language-icon-PNG-free-PNG-Images_127477&docid=njWY2kAYlPbTAM&tbnid=sHGTbO42MnX-XM&vet=12ahUKEwis6-DvqtySAxX_kmoFHXa4DAMQnPAOegQILRAB..i&w=840&h=859&hcb=2&ved=2ahUKEwis6-DvqtySAxX_kmoFHXa4DAMQnPAOegQILRAB)
+![Logo](https://toppng.com/uploads/preview/python-language-icon-python-programming-language-icon-11553482772flfuzsqwz4.png)
 
 ## Authors
 
